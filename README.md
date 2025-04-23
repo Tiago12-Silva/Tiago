@@ -14,3 +14,4 @@ Tecnologias Usadas no meu dia
 </div></br>
 
 Estudante de TI no segundo período do curso de Tec. Desenvolvimento de Sistemas no IFPE.
+Estagiário da Secretaria e Defesa Social - prefeitura de Moreno.
